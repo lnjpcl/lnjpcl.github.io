@@ -1,0 +1,48 @@
+#backgrounds img
+{
+	border: 1px solid #000;
+	cursor: pointer;
+}
+
+.BGribbons #ribbons, .BGdiamond #diamond, .BGsplat #splat, .BGbubbles #bubbles, .BGcrosses #crosses, .BGsquares #squares
+{
+	border-color: #fff;
+}
+.BGribbons
+{
+	background: url('images/c07asTW.jpg') center no-repeat ;
+	 background-size: 100% 100%;
+	 background-attachment: fixed;
+	
+}
+.BGdiamond, .no-multiplebgs .BGdiamond
+{
+ background: url('images/timg\ \(1\).jpeg') center no-repeat ;
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+.BGsplat, .no-multiplebgs  .BGsplat
+{
+ background: url('images/bj.jpg') center no-repeat ;
+ background-size: cover;
+ background-attachment: fixed;
+}
+.BGbubbles, .no-multiplebgs .BGbubbles
+{
+ background: url('images/banner.jpg') center no-repeat ;
+ background-size: cover;
+ background-attachment: fixed;
+}
+.BGcrosses, .no-multiplebgs .BGcrosses
+{
+ background: url('images/banners.jpg') center no-repeat ;
+ background-size: cover;
+ background-attachment: fixed;
+}
+.BGsquares, .no-multiplebgs .BGsquares
+{
+ background: url('images/Kp5mlA4.jpg') center no-repeat ;
+ background-size: cover;
+ background-attachment: fixed;
+}
