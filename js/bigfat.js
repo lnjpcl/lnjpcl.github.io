@@ -74,9 +74,9 @@ $(function(){
 				}
 		
 			});
-			$content.html('<video src="' + videoId + '"  autoplay="autoplay" style="width:100%;height:100%" controls="controls"></video>');
-			classToggle($elem, 'loading');
-			loading = true;
+			// $content.html('<video src="' + videoId + '"  autoplay="autoplay" style="width:100%;height:100%" controls="controls"></video>');
+			// classToggle($elem, 'loading');
+			// loading = true;
 			function sliderPlaying() {
 				
 				lightsOff($elem, true);
