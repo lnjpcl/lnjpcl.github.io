@@ -246,7 +246,6 @@ $(function(){
 	//binding stuffs
 	$(window).on('mousewheel', function() {
 		
-		console.log('scrolling');
 		$(window)._scrollable().stop(); //Cancels scrolling animation when mousewheel is used, to stop conflict.
 		
 	}) 
